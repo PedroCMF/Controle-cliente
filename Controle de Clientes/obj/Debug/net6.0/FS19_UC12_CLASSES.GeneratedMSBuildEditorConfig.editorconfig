@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FS19_UC12_CLASSES
+build_property.ProjectDir = c:\Users\PEDRO\Desktop\AULA SENAI\BACK-END\6-FS19_UC12_CLASSES  CRIANDO E LENDO ARQUIVO\
